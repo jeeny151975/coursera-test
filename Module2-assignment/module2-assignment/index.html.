@@ -7,7 +7,7 @@
 <link rel="icon" href="../favicon.ico" type="image/x-icon">
 <title>Module 2 assigment solution</title>
 </head>
-<link rel="stylesheet" href="style.css" />
+<link rel="stylesheet" href="css/style.css" />
 <body>
 <div class="row">
   <h1>Our Menu</h1>
@@ -36,7 +36,7 @@
     <div class="col col-lg-4 col-mid-6 col-sm-12">
       <div id="sushi" class="content">
         <h2>Sushi</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
       quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
       consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
@@ -44,11 +44,12 @@
       proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
       </div>
     </div>
-    <div class="clear"></div>
-  </div>
-
+    <div class="col-lg-12 col-md-12 col-sm-12">
+        
+    <p>Github repository for this assignment can be found
+            <a href="https://github.com/jeeny151975/coursera-test/tree/main/Module2-assignment/module2-assignment" target="_blank">here</a>.
+        </p>
+    </div>
+   </div>
 </body>
 </html>
-
-  
-
